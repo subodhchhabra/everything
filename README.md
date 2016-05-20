@@ -1,6 +1,7 @@
 ## Table of Contents
 
 - [Data and Analyses](#data-and-analyses)
+- [Standalone Datasets](#standalone-datasets)
 - [Libraries and Tools](#libraries-and-tools)
 - [Guides](#guides)
 
@@ -10,6 +11,16 @@
 
 Date|Description|Repo|Article
 ----|-----------|----|-------
+2016-05-12|Analysis of H-2 debarments, violations, and certifications ("The Pushovers")|[:link:](https://github.com/BuzzFeedNews/2016-05-H-2-debarments-and-violations)|[:link:](https://www.buzzfeed.com/kenbensinger/the-pushovers)
+2016-04-26|Analysis of GOP donor movements post-Bush and post-Rubio|[:link:](https://github.com/BuzzFeedNews/2016-04-republican-donor-movements)|[:link:](https://www.buzzfeed.com/johntemplon/bush-rubio-donors-didnt-rush-to-support-ted-cruz-in-march)
+2016-04-20|Analysis of Bernie Sanders's ActBlue donors|[:link:](https://github.com/BuzzFeedNews/2016-04-bernie-sanders-donors)|[:link:](http://www.buzzfeed.com/johntemplon/how-bernie-sanders-raises-all-that-money)
+2016-04-06|Data and code for "Spies In The Skies"|[:link:](https://github.com/BuzzFeedNews/2016-04-federal-surveillance-planes)|[:link:](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies)
+2016-02-01|Bush/Rubio/Cruz donor movement analysis|[:link:](https://github.com/BuzzFeedNews/2016-02-republican-donor-movements)|[:link:](http://www.buzzfeed.com/katherinemiller/the-jeb-bush-marco-rubio-donor-shift-is-real-and-its-acceler)
+2016-01-29|Data and code for "America's Quiet Crackdown On Indian Immigrants" |[:link:](https://github.com/BuzzFeedNews/2016-01-immigrant-detention-india)|[:link:](http://www.buzzfeed.com/davidnoriega/americas-quiet-crackdown-on-indian-immigrants)
+2016-01-26|Analysis of Jefferson County (TX) jail data|[:link:](https://github.com/BuzzFeedNews/2016-01-texas-municipal-courts)|[:link:](http://www.buzzfeed.com/alexcampbell/the-ticket-machine)
+2016-01-26|Analysis of criminal case dispositions in Texas municipal courts|[:link:](https://github.com/BuzzFeedNews/2016-01-texas-municipal-courts)|[:link:](http://www.buzzfeed.com/alexcampbell/the-ticket-machine)
+2016-01-17|Methodology and code for "The Tennis Racket"|[:link:](https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis)|[:link:](http://www.buzzfeed.com/heidiblake/the-tennis-racket)
+2015-12-29|Data and analysis for "The Coyote"|[:link:](https://github.com/BuzzFeedNews/2015-12-the-coyote)|[:link:](http://www.buzzfeed.com/kenbensinger/the-coyote)
 2015-12-09|How long will the Warriors' win streak last?|[:link:](https://gist.github.com/jsvine/2420508ffd35c10a0a95)|[:link:](http://www.buzzfeed.com/jsvine/how-long-will-the-golden-state-warriors-win-streak-last)
 2015-12-07|Race and fatal police shootings|[:link:](https://github.com/BuzzFeedNews/2015-12-fatal-police-shootings)|[:link:](http://www.buzzfeed.com/peteraldhous/race-and-police-shootings)
 2015-12-02|Time elapsed between mass shootings in the U.S.|[:link:](https://github.com/BuzzFeedNews/2015-12-mass-shooting-intervals)|[:link:](http://www.buzzfeed.com/jsvine/heres-how-little-time-america-gets-between-mass-shootings)
@@ -34,18 +45,24 @@ Date|Description|Repo|Article
 2014-06-30|Firework-related injuries — data|[:link:](https://github.com/BuzzFeedNews/2014-06-firework-injuries)|[:link:](http://www.buzzfeed.com/jsvine/275-ways-americans-hurt-themselves-playing-with-fireworks)
 2014-06-16|Mapping the gender divide in bikeshare programs — data and code|[:link:](https://github.com/BuzzFeedNews/2014-06-bikeshare-gender-maps)|[:link:](http://www.buzzfeed.com/jsvine/these-maps-show-a-massive-gender-gap-in-bicycle-riding)
 
-
-## Libraries and Tools
+## Standalone Datasets
 
 Repo|Description
 ----|-----------
 [nics-firearm-background-checks](https://github.com/BuzzFeedNews/nics-firearm-background-checks)|Monthly data from the FBI's National Instant Criminal Background Check System, converted from PDF to CSV.
 [H-2-certification-data](https://github.com/BuzzFeedNews/H-2-certification-data)|H-2 visa certification data & data-standardization.
+
+## Libraries and Tools
+
+Repo|Description
+----|-----------
 [whtranscripts](https://github.com/BuzzFeedNews/whtranscripts)|Fetch and parse the American Presidency Project's press-briefing and presidential-news-conference transcripts.
 [bikeshares](https://github.com/BuzzFeedNews/bikeshares)|Standardized parsers for data published by bicycle-sharing programs. Currently supporting: NYC's Citi Bike, Chicago's Divvy, and Boston's Hubway.
 [twick](https://github.com/jsvine/twick)|Twitter, quick. Fetch and store tweets on short notice.
 
+
 ## Guides
 Repo|Description
 ----|-----------
+[zika-data](https://github.com/BuzzFeedNews/zika-data)|Data — and pointers to data — related to the 2015–16 Zika virus outbreak.
 [bikeshare-data-sources](https://github.com/BuzzFeedNews/bikeshare-data-sources)|Guide for getting trip history and station data from various bicycle-sharing programs.
